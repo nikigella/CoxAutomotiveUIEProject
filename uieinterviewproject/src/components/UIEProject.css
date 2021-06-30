@@ -1,0 +1,12 @@
+.heading {
+    text-transform: capitalize !important;
+    min-height: 65px;
+}
+
+.subheading {
+    text-transform: capitalize;
+}
+
+.price {
+    text-align: right;
+}
