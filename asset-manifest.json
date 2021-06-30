@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/uieinterviewproject/static/css/main.cd2ac4ed.chunk.css",
-    "main.js": "/uieinterviewproject/static/js/main.b7622cda.chunk.js",
-    "main.js.map": "/uieinterviewproject/static/js/main.b7622cda.chunk.js.map",
-    "runtime-main.js": "/uieinterviewproject/static/js/runtime-main.f667a431.js",
-    "runtime-main.js.map": "/uieinterviewproject/static/js/runtime-main.f667a431.js.map",
-    "static/js/2.ea243b87.chunk.js": "/uieinterviewproject/static/js/2.ea243b87.chunk.js",
-    "static/js/2.ea243b87.chunk.js.map": "/uieinterviewproject/static/js/2.ea243b87.chunk.js.map",
-    "static/js/3.76371082.chunk.js": "/uieinterviewproject/static/js/3.76371082.chunk.js",
-    "static/js/3.76371082.chunk.js.map": "/uieinterviewproject/static/js/3.76371082.chunk.js.map",
-    "index.html": "/uieinterviewproject/index.html",
-    "static/css/main.cd2ac4ed.chunk.css.map": "/uieinterviewproject/static/css/main.cd2ac4ed.chunk.css.map",
-    "static/js/2.ea243b87.chunk.js.LICENSE.txt": "/uieinterviewproject/static/js/2.ea243b87.chunk.js.LICENSE.txt"
+    "main.css": "/CoxAutomotiveUIEProject/static/css/main.cd2ac4ed.chunk.css",
+    "main.js": "/CoxAutomotiveUIEProject/static/js/main.b7622cda.chunk.js",
+    "main.js.map": "/CoxAutomotiveUIEProject/static/js/main.b7622cda.chunk.js.map",
+    "runtime-main.js": "/CoxAutomotiveUIEProject/static/js/runtime-main.225e6158.js",
+    "runtime-main.js.map": "/CoxAutomotiveUIEProject/static/js/runtime-main.225e6158.js.map",
+    "static/js/2.ea243b87.chunk.js": "/CoxAutomotiveUIEProject/static/js/2.ea243b87.chunk.js",
+    "static/js/2.ea243b87.chunk.js.map": "/CoxAutomotiveUIEProject/static/js/2.ea243b87.chunk.js.map",
+    "static/js/3.76371082.chunk.js": "/CoxAutomotiveUIEProject/static/js/3.76371082.chunk.js",
+    "static/js/3.76371082.chunk.js.map": "/CoxAutomotiveUIEProject/static/js/3.76371082.chunk.js.map",
+    "index.html": "/CoxAutomotiveUIEProject/index.html",
+    "static/css/main.cd2ac4ed.chunk.css.map": "/CoxAutomotiveUIEProject/static/css/main.cd2ac4ed.chunk.css.map",
+    "static/js/2.ea243b87.chunk.js.LICENSE.txt": "/CoxAutomotiveUIEProject/static/js/2.ea243b87.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f667a431.js",
+    "static/js/runtime-main.225e6158.js",
     "static/js/2.ea243b87.chunk.js",
     "static/css/main.cd2ac4ed.chunk.css",
     "static/js/main.b7622cda.chunk.js"
